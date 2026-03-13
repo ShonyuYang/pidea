@@ -1,0 +1,17 @@
+[[main]]
+  identifier = "posts"
+  name = "文章"
+  url = "/posts/"
+  weight = 10
+
+[[main]]
+  identifier = "tags"
+  name = "標籤"
+  url = "/tags/"
+  weight = 20
+
+[[main]]
+  identifier = "categories"
+  name = "分類"
+  url = "/categories/"
+  weight = 30

@@ -1,0 +1,19 @@
+languageCode = "zh-tw"
+languageName = "繁體中文"
+weight = 1
+title = "Pidea - Just one more Pi project"
+
+[params]
+  displayName = "繁體中文"
+  isoCode = "zh-tw"
+  dateFormat = "2006-01-02"
+  description = "Raspberry Pi 與 AI 技術分享"
+
+[params.author]
+  name = "Shonyu"
+  image = "img/author.png"
+  headline = "Pidea"
+  bio = "Just one more Pi project."
+  links = [
+    { github = "https://github.com/ShonyuYang" },
+  ]
