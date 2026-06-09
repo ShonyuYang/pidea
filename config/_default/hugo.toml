@@ -6,6 +6,7 @@ enableRobotsTXT = true
 summaryLength = 30
 hasCJKLanguage = true
 enableEmoji = true
+timeZone = "Asia/Taipei"
 
 [pagination]
   pagerSize = 10
