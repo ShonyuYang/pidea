@@ -1,7 +1,7 @@
 ---
 title: "橫著走不是螃蟹的專利 — Arduino 麥克納姆輪全向機器人"
 date: 2026-06-14
-draft: true
+draft: false
 tags: ["arduino", "mecanum", "robot", "stepper-motor", "3d-printing"]
 categories: ["maker"]
 summary: "用 Arduino Mega + 4 顆步進馬達 + 3D 列印麥克納姆輪，打造一台能前後左右斜向任意移動的全向機器人車。"
